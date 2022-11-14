@@ -1,6 +1,6 @@
 Olá! Meu nome é Danilo Calado e estou em transição de carreira para a área da tecnologia.
 
-Tenho experiência de mais de 10 anos na área de sáude e gestão de pessoas, onde me trouxe muito aprendizado sobre trabalho em equipe e a importância de cada função no desenvolvimento de projetos e crescimento da empresa.
+Tenho experiência de mais de 13 anos na área de sáude e gestão de pessoas, onde me trouxe muito aprendizado sobre trabalho em equipe e a importância de cada função no desenvolvimento de projetos e crescimento da empresa.
 Desde 2021 estudando programação na Trybe, escola de tecnologia.
 
 Durante o curso, tive vivência prática no desenvolvimento de aplicações web com as melhores práticas do mercado de trabalho, incluindo soft-skills e metodologias agéis. Desenvolvi projetos individuais e em grupo com as tecnologias: CSS, HTML, JavaScript, React, Redux, Context API, React Hooks, MySQL, Docker, Jest, Chai, Sinon, NodeJS, Sequelize, Typescript e MongoDB. 
