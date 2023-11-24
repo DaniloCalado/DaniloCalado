@@ -1,9 +1,15 @@
 Olá! Meu nome é Danilo Calado e estou em transição de carreira para a área da tecnologia.
 
-Tenho experiência de mais de 13 anos na área de sáude e gestão de pessoas, onde me trouxe muito aprendizado sobre trabalho em equipe e a importância de cada função no desenvolvimento de projetos e crescimento da empresa.
-Desde 2021 estudando programação na Trybe, escola de tecnologia.
+Atualmente trabalhando no Porto digital como desenvolvedor , onde faço várias atividades tais quais:
+- Desenvolvimento de plataformas e sites (Intitucionais e Landpages).
+- Automações e driação de scripts para atividades de gestão de comunidade e sucesso do cliente.
+- Gerenciamento, mapeamento e análise de dados através de dashboards interativas que ajudam na tomada de decisões em programas e projetos do Porto digital.
 
-Durante o curso, tive vivência prática no desenvolvimento de aplicações web com as melhores práticas do mercado de trabalho, incluindo soft-skills e metodologias agéis. Desenvolvi projetos individuais e em grupo com as tecnologias: CSS, HTML, JavaScript, React, Redux, Context API, React Hooks, MySQL, Docker, Jest, Chai, Sinon, NodeJS, Sequelize, Typescript e MongoDB. 
+Tenho experiência de mais de 13 anos na área de sáude onde tive uma empresa de Fisioterapia com cargo de diretor administrativo , onde me trouxe muito aprendizado sobre trabalho em equipe e a importância de cada função no desenvolvimento de projetos e crescimento da empresa.
+Me formei em desenvolvimento de sistemas pela Trybe em abril de 2023.
+
+Durante o curso, tive vivência prática no desenvolvimento de aplicações web com as melhores práticas do mercado de trabalho, incluindo soft-skills e metodologias agéis. Desenvolvi projetos individuais e em grupo com as tecnologias: HTML,CSS, Bootstrap, Tailwind, JavaScript, React, Redux, Context API, MySQL, Docker, Jest, Chai, Sinon, NodeJS, Sequelize, Typescript e MongoDB.
+No Porto Digital tive experiÊncia com phyton, PHP, Wordpress-Elementor, Notion, Pipefy, Pipedream e Looker, além de React e supabase ( usado na plataforma DOCA )
 
 <div style="display: inline_block"><br>
   <img align="center" alt="js-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
