@@ -2,7 +2,7 @@ Olá! Meu nome é Danilo Calado e estou em transição de carreira para a área 
 
 Atualmente trabalhando no Porto digital como desenvolvedor , onde faço várias atividades tais quais:
 - Desenvolvimento de plataformas e sites (Intitucionais e Landpages).
-- Automações e driação de scripts para atividades de gestão de comunidade e sucesso do cliente.
+- Automações e criação de scripts para atividades de gestão de comunidade e sucesso do cliente.
 - Gerenciamento, mapeamento e análise de dados através de dashboards interativas que ajudam na tomada de decisões em programas e projetos do Porto digital.
 
 Tenho experiência de mais de 13 anos na área de sáude onde tive uma empresa de Fisioterapia com cargo de diretor administrativo , onde me trouxe muito aprendizado sobre trabalho em equipe e a importância de cada função no desenvolvimento de projetos e crescimento da empresa.
