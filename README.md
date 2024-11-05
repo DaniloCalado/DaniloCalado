@@ -1,6 +1,8 @@
 Olá! Meu nome é Danilo Calado e fiz transição de carreira para a área da tecnologia.
 
-Atualmente trabalhando no <a href="https://www.portodigital.org" target="_blank">Porto digital</a> como desenvolvedor , onde faço várias atividades tais quais:
+Atualmente trabalhando em parceria na Akilli Brasil como desenvolvedor Full Stack.
+
+Trabalhei no <a href="https://www.portodigital.org" target="_blank">Porto digital</a> como desenvolvedor , onde fszia várias atividades tais quais:
 - Desenvolvimento de plataformas e sites (Intitucionais e Landpages).
 - Automações e criação de scripts para atividades de gestão de comunidade e sucesso do cliente.
 - Gerenciamento, mapeamento e análise de dados através de dashboards interativas que ajudam na tomada de decisões em programas e projetos do Porto digital.
