@@ -10,8 +10,8 @@ Trabalhei no <a href="https://www.portodigital.org" target="_blank">Porto digita
 Tenho experiência de mais de 13 anos na área de sáude onde tive uma empresa de Fisioterapia com cargo de diretor administrativo , onde me trouxe muito aprendizado sobre trabalho em equipe e a importância de cada função no desenvolvimento de projetos e crescimento da empresa.
 Me formei em desenvolvimento de sistemas pela Trybe em abril de 2023.
 
-Durante o curso, tive vivência prática no desenvolvimento de aplicações web com as melhores práticas do mercado de trabalho, incluindo soft-skills e metodologias agéis. Desenvolvi projetos individuais e em grupo com as tecnologias: HTML,CSS, Bootstrap, Tailwind, JavaScript, React, Redux, Context API, MySQL, Docker, Jest, Chai, Sinon, NodeJS, Sequelize, Typescript e MongoDB.
-No Porto Digital tive experiÊncia com phyton, PHP, Wordpress-Elementor, Notion, Pipefy, Pipedream e Looker, além de React e supabase ( usado na plataforma DOCA )
+Durante o curso, tive vivência prática no desenvolvimento de aplicações web com as melhores práticas do mercado de trabalho, incluindo soft-skills e metodologias agéis. Desenvolvi projetos individuais e em grupo com as tecnologias: HTML, CSS, Bootstrap, Tailwind, JavaScript, React, Redux, Context API, MySQL, Docker, Jest, Chai, Sinon, NodeJS, Sequelize, Typescript e MongoDB.
+No Porto Digital tive experiência com Phyton, PHP, Wordpress-Elementor, Notion, Pipefy, Pipedream e Looker, além de React e Supabase ( usado na plataforma DOCA ).
 
 <div style="display: inline_block"><br>
   <img align="center" alt="js-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
